@@ -1,0 +1,1 @@
+var master_new = 'master_new';
